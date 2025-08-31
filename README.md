@@ -5,6 +5,11 @@ This app allows users to view available slots, select a slot, and book it with a
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/09c9366f-6649-4961-9203-d371d2a1fa40" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/3da1ec56-09da-4cd7-90fd-416fd57f8ed7" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/e63cd81a-03a4-4fe2-bf49-1744f9b12d80" />
+
+
 ## 🚀 Features
 
 ### Frontend
