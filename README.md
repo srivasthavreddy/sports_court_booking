@@ -36,5 +36,5 @@ This app allows users to view available slots, select a slot, and book it with a
 - Express.js  
 
 **Database**
-- MongoDB (or PostgreSQL/MySQL/JSON file)
+- MongoDB
 
