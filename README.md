@@ -1,6 +1,6 @@
 # 🏏 Court/Turf Booking Application
 
-A mini full-stack booking application built as part of the **Full Stack Developer Intern Assignment (2 Days)**.  
+A mini full-stack booking application.  
 This app allows users to view available slots, select a slot, and book it with a simple and responsive UI.
 
 ---
@@ -38,6 +38,3 @@ This app allows users to view available slots, select a slot, and book it with a
 **Database**
 - MongoDB (or PostgreSQL/MySQL/JSON file)
 
-
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
